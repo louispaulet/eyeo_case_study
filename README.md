@@ -19,7 +19,8 @@ https://github.com/louispaulet/ai_art_ressources/blob/main/clip_interrogation/se
 
 Q: How would you design an adtech service that would leverage Chrome’s Privacy Sandbox Topics API proposal in the most optimized way?
 
-WIP  
+Folder `top1m_complete_datasets` contains the datasets relevant to the question.  
 
 https://github.com/louispaulet/eyeo_case_study/blob/main/EYEO_1_Exploration_TopicsModelExecution.ipynb  
 https://github.com/louispaulet/eyeo_case_study/blob/main/EYEO_2_Compute_TopicsModelExecution.ipynb  
+
